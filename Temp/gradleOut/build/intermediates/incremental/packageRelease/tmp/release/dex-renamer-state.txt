@@ -1,0 +1,4 @@
+#Wed Jun 19 21:00:54 IST 2019
+base.0=C\:\\Users\\admin\\FirstProject\\Unity\\ARCore\\Temp\\gradleOut\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
